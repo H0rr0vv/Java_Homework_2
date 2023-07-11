@@ -46,6 +46,6 @@ public class Main {
             i += 3;
         }
 
-        writeToFile.write(res);
+        WriteToFile.write(res);
     }
 }
